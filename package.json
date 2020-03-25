@@ -1,0 +1,24 @@
+{
+  "name": "tailwindcss-spacing-plugin",
+  "version": "1.0.0",
+  "description": "Vertical and horizontal spacing TailwindCSS plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cdmoro/tailwindcss-spacing-plugin.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "plugin"
+  ],
+  "author": "Carlos Bonadeo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdmoro/tailwindcss-spacing-plugin/issues"
+  },
+  "homepage": "https://github.com/cdmoro/tailwindcss-spacing-plugin#readme"
+}
